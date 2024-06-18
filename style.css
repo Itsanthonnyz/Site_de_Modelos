@@ -1,0 +1,20 @@
+.corpo{
+    background-image: url(fundo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.texto{
+    padding: 1em 0;
+    text-align: center;
+    text-decoration: underline;
+}
+footer {
+    color: black;
+    text-align: center;
+    padding: 1em 0;
+    width: 100%;
+    bottom: 0;
+  }
+.container-fluid-a{
+    padding-left: 100px;
+  }
